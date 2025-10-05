@@ -13,7 +13,9 @@ export function Footer() {
               </div>
               <span className="font-bold text-lg">Cybernat Labs</span>
             </Link>
-            <p className="text-gray-400 text-sm">Navigating the digital landscape for success</p>
+            <p className="text-gray-400 text-sm">
+              Navigating the digital landscape for success
+            </p>
           </div>
 
           <div>
@@ -72,7 +74,7 @@ export function Footer() {
             <h3 className="font-bold mb-4">Connect</h3>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=61581828326782&sk=about"
                 className="w-10 h-10 rounded-full bg-white hover:bg-gray-200 flex items-center justify-center transition-colors"
                 aria-label="Facebook"
               >
@@ -109,5 +111,5 @@ export function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }
