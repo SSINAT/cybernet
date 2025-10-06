@@ -13,7 +13,7 @@ export function TeamSection() {
        role: "CEO and Founder",
        description:
          " 10+ years of experience in cybersecurity. Expertise in penetration testing, security architecture, and incident response",
-       avatar: "/professional-avatar-male.jpg",
+       avatar: "/kuy-movsun.png",
        linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
      },
      {
@@ -25,7 +25,7 @@ export function TeamSection() {
        linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
      },
      {
-       name: "Ang Ausa ",
+       name: "Ang Ausa",
        role: "Senior Penetration Tester",
        description:
          "3+ years of experience in ethical hacking and vulnerability assessment. Certified OSCP and holds multiple security certifications",
@@ -37,24 +37,24 @@ export function TeamSection() {
        role: "Threat Intelligence Analyst",
        description:
          "2+ years of experience in threat intelligence and cyber threat analysis. Expert in identifying emerging threats and attack patterns",
-       avatar: "/professional-avatar-male-3.jpg",
+       avatar: "/sinat.png",
        linkedin: "https://www.linkedin.com/in/sinat-sina-36765b238/",
      },
      {
-       name: "Yous Yata",
+       name: "Yous Yeata",
        role: "Security Compliance Specialist",
        description:
          "2+ years of experience in security compliance and risk management. Expert in ISO 27001, SOC 2, and GDPR compliance frameworks",
-       avatar: "/yata.png",
-       linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
+       avatar: "/yata1.png",
+       linkedin: "https://www.linkedin.com/in/yeata-yous-a284b7319/",
      },
      {
        name: "Nite Sothey",
        role: "Security Analyst",
        description:
          "2+ years of experience in security monitoring and vulnerability management. Skilled in SIEM tools and security automation",
-       avatar: "/sothey.png",
-       linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
+       avatar: "/sothey1.png",
+       linkedin: "https://www.linkedin.com/in/nith-sothey-9642a3368/",
      },
      {
        name: "Roem Vanne",
