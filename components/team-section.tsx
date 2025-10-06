@@ -92,7 +92,7 @@ export function TeamSection() {
        name: "Sros Thavarith",
        role: "Cryptography Expert",
        description:
-         "12+ years of experience in cryptography and data protection. Expert in encryption protocols and secure communication systems",
+         "2+ years of experience in cryptography and data protection. Expert in encryption protocols and secure communication systems",
        avatar: "/thavarith.png",
        linkedin: "https://www.linkedin.com/in/thavrith-sroas-2ab64b1ab/",
      },
@@ -100,7 +100,7 @@ export function TeamSection() {
        name: "Chan Nimol",
        role: "Application Security Specialist",
        description:
-         "5+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
+         "2+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
        avatar: "/nimol1.png",
        linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
      },
@@ -108,7 +108,7 @@ export function TeamSection() {
        name: "Chhay Ingchhy",
        role: "Application Security Specialist",
        description:
-         "5+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
+         "2+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
        avatar: "/ingchhy.png",
        linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
      },
@@ -124,7 +124,7 @@ export function TeamSection() {
        name: "Tann Kangson",
        role: "Application Security Specialist",
        description:
-         "5+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
+         "2+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
        avatar: "/professional-avatar-male.jpg",
        linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
      },
