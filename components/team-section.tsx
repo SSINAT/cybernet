@@ -84,7 +84,7 @@ export function TeamSection() {
        name: "Soeung Pheareakpanhaboth",
        role: "Application Security Specialist",
        description:
-         "5+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
+         "2+ years of experience in application security testing. Specialized in secure code review and OWASP Top 10 vulnerabilities",
        avatar: "/both.jpg",
        linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
      },
