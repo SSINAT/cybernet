@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Cybernet Lab',
+  description: 'sevice for cybernetics',
+  generator: 'Cybernet Team',
 }
 
 export default function RootLayout({
@@ -17,10 +17,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="icon"
+          href="/logo_light.png"
+          // media="(prefers-color-scheme: light)"
+        />
+
+      </head>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
         {children}
         <Analytics />
       </body>
     </html>
-  )
+  );
 }
