@@ -8,7 +8,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-4">
         <nav className="flex items-center justify-between">
           <Link href="/" className="flex items-center">
-            <Image src="/logo.png" alt="Cybernet Lab" width={200} height={60} className="h-12 w-auto" />
+            <Image src="/logocybertex.png" alt="CyberTex" width={200} height={60} className="h-12 w-auto" />
           </Link>
 
           <div className="hidden md:flex items-center gap-8">

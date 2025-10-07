@@ -8,30 +8,7 @@ export function TeamSection() {
   const [showAll, setShowAll] = useState(false);
 
    const team = [
-     {
-       name: "Kuy Movsun",
-       role: "CEO and Founder",
-       description:
-         " 10+ years of experience in cybersecurity. Expertise in penetration testing, security architecture, and incident response",
-       avatar: "/kuy-movsun.png",
-       linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
-     },
-     {
-       name: "Pich Reatrey",
-       role: "Director of Security Operations",
-       description:
-         "10+ years of experience in security operations and team leadership. Strong expertise in threat intelligence and security program management",
-       avatar: "/pichreatrey.png",
-       linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
-     },
-     {
-       name: "Ang Ausa",
-       role: "Senior Penetration Tester",
-       description:
-         "3+ years of experience in ethical hacking and vulnerability assessment. Certified OSCP and holds multiple security certifications",
-       avatar: "/ausa.png",
-       linkedin: "https://www.linkedin.com/in/reatrey-pich-760621a5/",
-     },
+     
      {
        name: "Sina Sinat ",
        role: "Threat Intelligence Analyst",

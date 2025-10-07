@@ -1,18 +1,15 @@
 import Link from "next/link"
 import { Facebook, Linkedin, Twitter } from "lucide-react"
-
+import Image from "next/image";
 export function Footer() {
   return (
     <footer className="bg-black text-white">
       <div className="container mx-auto px-4 py-12">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
-            <Link href="/" className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
-                <span className="text-black text-sm font-bold">CL</span>
-              </div>
-              <span className="font-bold text-lg">Cybernat Labs</span>
-            </Link>
+           <Link href="/" className="flex items-center">
+            <Image src="/cybertex.png" alt="CyberTex" width={200} height={60} className="h-12 w-auto" />
+          </Link>
             <p className="text-gray-400 text-sm">
               Navigating the digital landscape for success
             </p>

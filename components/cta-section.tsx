@@ -26,7 +26,7 @@ export function CTASection() {
           <div className="relative">
             <div className="relative w-full aspect-square max-w-md mx-auto">
               <Image
-                src="/happylife.png"
+                src="/happy.png"
                 alt="CTA Illustration"
                 width={500}
                 height={500}
